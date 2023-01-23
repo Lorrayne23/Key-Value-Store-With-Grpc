@@ -1,5 +1,4 @@
 ### Key-Value store in memory using gRPC
-This work shows a use of the gRPC protocol to allow the client to add a key and a value, fetch a key and view all keys on the server.
 
 The project was developed in the python programming language.
 
